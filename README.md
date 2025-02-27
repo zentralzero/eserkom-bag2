@@ -39,7 +39,7 @@ eserkom-bag2/
 │   └── test_bangun_datar.py  # Unit test
 │
 ├── .env                    # Konfigurasi database
-└── main_bagian2.py         # Program utama
+└── main.py         # Program utama
 ```
 
 ## Arsitektur OOP
